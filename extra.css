@@ -1,0 +1,69 @@
+
+.contact{
+	color:#fff;
+}
+.contact a{
+	text-decoration:none;
+	color: #fff;
+}
+.contact a:hover{
+	color:red;
+}
+.contact a:active{
+	color: green;
+}
+.contact a:visited{
+	color: yellow;
+}
+.marquee{
+		color:red;
+		background: #fff;
+}
+
+body{
+	background-image:url("../movie/css/images/bg.jpg");
+	background-color: #cccccc; /* Used if the image is unavailable */
+  
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.maker_pic{
+	margin-left: 20px;
+	margin-right: 20px;
+	float:left;
+	
+}
+#footer{
+	border:1px solid red;
+	padding:20px;
+	text-align:center;
+	clear: left;
+	background-color: #d43;
+}
+/*search*/
+#youtube{
+	color:red;
+}
+.download{
+	color:#fff;
+	background: red;
+}
+
+.pic{
+	height:850px;
+	width:1200px;
+
+
+}
+.made{
+	color: #fff;
+}
+.aboutme{
+	text-align: justify;
+    text-justify: inter-word;
+	font-size: 80%;
+}
+.logo{
+	
